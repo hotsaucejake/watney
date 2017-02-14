@@ -8,3 +8,8 @@ WATNEY is composed of Raspberry Pi, DC-DC Step-down Voltage Module, USB camera, 
 
 ### Notice:
 WATNEY must be initialized first before you can deploy the remote.
+
+### Add WiFi network with Watney
+```
+sudo nano /etc/wpa_supplicant/wpa_supplicant.conf
+```
